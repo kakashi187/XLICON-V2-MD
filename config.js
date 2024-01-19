@@ -62,7 +62,7 @@ global.fgsc = 'https://github.com/Guru322/GURU-BOT'
 global.fgyt = 'https://youtube.com/@s4salmanyt'
 global.fgpyp = 'https://youtube.com/@s4salmanyt'
 global.fglog = 'XLICON.jpg' 
-global.thumb = fs.readFileSync('./XLICON.jpg')
+global.thumb = fs.readFileSync('https://i.imgur.com/jHzOhmv.jpeg')
 
 
 global.wait = '*🕣 _XLICON IS LODIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
